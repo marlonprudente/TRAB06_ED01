@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1408318444 source:c:\users\helena\desktop\hash\fila.cpp
+	"Fila.h"
+	<unistd.h>
+	<cstdio>
+
+1408318444 c:\users\helena\desktop\hash\fila.h
+	"Pilha.h"
+	<iostream>
+
+1408318498 c:\users\helena\desktop\hash\pilha.h
+	<iostream>
+	"Element.h"
+
+1408318400 c:\users\helena\desktop\hash\element.h
+	<iostream>
+	<string>
+
+1408318470 source:c:\users\helena\desktop\hash\hash.cpp
+	"Hash.h"
+
+1408318472 c:\users\helena\desktop\hash\hash.h
+	<string>
+
+1408318478 source:c:\users\helena\desktop\hash\lista.cpp
+	"Lista.h"
+	"Element.h"
+
+1408318480 c:\users\helena\desktop\hash\lista.h
+	<iostream>
+	<Windows.h>
+	"Element.h"
+
+1408318480 source:c:\users\helena\desktop\hash\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<locale.h>
+	<Windows.h>
+	"Hash.h"
+
+1408318482 source:c:\users\helena\desktop\hash\mapa.cpp
+	"Mapa.h"
+
+1408318482 c:\users\helena\desktop\hash\mapa.h
+	<iostream>
+
+1408318484 source:c:\users\helena\desktop\hash\pilha.cpp
+	"Pilha.h"
+	"Element.h"
+
+1423532253 source:c:\users\marlon prudente\desktop\hash\fila.cpp
+	"Fila.h"
+	<unistd.h>
+	<cstdio>
+
+1423532253 c:\users\marlon prudente\desktop\hash\fila.h
+	"Pilha.h"
+	<iostream>
+
+1408318498 c:\users\marlon prudente\desktop\hash\pilha.h
+	<iostream>
+	"Element.h"
+
+1408318400 c:\users\marlon prudente\desktop\hash\element.h
+	<iostream>
+	<string>
+
+1423535452 source:c:\users\marlon prudente\desktop\hash\hash.cpp
+	"Hash.h"
+
+1408318472 c:\users\marlon prudente\desktop\hash\hash.h
+	<string>
+
+1423532254 source:c:\users\marlon prudente\desktop\hash\lista.cpp
+	"Lista.h"
+	"Element.h"
+
+1423532254 c:\users\marlon prudente\desktop\hash\lista.h
+	<iostream>
+	<Windows.h>
+	"Element.h"
+
+1423537214 source:c:\users\marlon prudente\desktop\hash\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<locale.h>
+	<Windows.h>
+	"Hash.h"
+
+1423532253 source:c:\users\marlon prudente\desktop\hash\mapa.cpp
+	"Mapa.h"
+
+1423532253 c:\users\marlon prudente\desktop\hash\mapa.h
+	<iostream>
+
+1408318484 source:c:\users\marlon prudente\desktop\hash\pilha.cpp
+	"Pilha.h"
+	"Element.h"
+
+1423537214 source:c:\users\marlon prudente\documents\netbeansprojects\trab06_ed01\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<locale.h>
+	<Windows.h>
+	"Hash.h"
+
+1408318472 c:\users\marlon prudente\documents\netbeansprojects\trab06_ed01\hash.h
+	<string>
+
+1423538195 source:c:\users\marlon prudente\documents\netbeansprojects\trab06_ed01\hash.cpp
+	"Hash.h"
+
